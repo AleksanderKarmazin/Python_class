@@ -2,20 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8066ee06-6dfe-4849-8d66-cf9abe954fca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Python_class.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course1/everything_is_an_object.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course1/loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course1/operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course1/sizes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course1/types/None_type.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course1/types/bool_type.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course1/types/numeric_types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course1/types/string_types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course1/vars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home_work_class_1/extra task #1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home_work_class_1/quiz #1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home_work_class_1/quiz #2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course2/complex_types/dicts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course2/complex_types/lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course2/complex_types/tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course2/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course2/mutations.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
